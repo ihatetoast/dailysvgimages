@@ -1,0 +1,77 @@
+/* Coolors Exported Palette - coolors.co/2d3142-bfc0c0-ffffff-ef8354-4f5d75 */
+/* RGB */
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Bitter', serif;*/
+html {
+  font-family: 'Raleway', sans-serif; }
+  html a {
+    text-decoration: none;
+    color: #4f5d75; }
+  html a:hover {
+    font-weight: bolder; }
+
+body {
+  margin: 0; }
+
+header {
+  background: #2d3142;
+  padding: 2em 2em 0.5em 2em;
+  text-align: center; }
+  header h1 {
+    color: #ef8354;
+    font-family: 'Bitter', serif;
+    font-size: 3em;
+    margin: 0; }
+
+.link-items {
+  display: flex;
+  justify-content: flex-end; }
+  .link-items ul {
+    list-style: none;
+    margin: 0; }
+  .link-items a {
+    color: #bfc0c0;
+    font-size: 1.25em;
+    text-decoration: none; }
+  .link-items a:hover {
+    font-weight: 600;
+    text-shadow: 2px 1px 1px #000; }
+  .link-items li {
+    display: inline;
+    margin-left: 1.5em; }
+
+code {
+  background-color: white;
+  color: #4f5d75; }
+
+.container {
+  background: #bfc0c0;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5em 2em; }
+
+.indexList {
+  margin-top: 1em;
+  display: flex;
+  flex-wrap: wrap; }
+
+.description {
+  width: 20%;
+  padding-right: 0.5em; }
+
+.title {
+  font-family: 'Bitter', serif; }
+
+h2 {
+  color: #ef8354; }
+
+.embedded {
+  flex-grow: 3; }
+
+.date {
+  color: #2d3142;
+  display: flex;
+  font-weight: bold;
+  justify-content: flex-end; }
+
+/*# sourceMappingURL=style.css.map */

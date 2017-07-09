@@ -1,0 +1,86 @@
+@import 'palette.scss';
+
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Bitter', serif;*/
+html{
+	font-family: 'Raleway', sans-serif;
+	a {
+		text-decoration: none;
+		color: $grey;
+	}
+	a:hover {
+		font-weight: bolder;
+	}
+}
+body{
+	margin: 0;
+}
+header{
+	background: $dkgrey;
+	padding: 2em 2em 0.5em 2em;;
+	text-align: center;
+	h1{
+		color: $orange;
+		font-family: 'Bitter', serif;
+		font-size: 3em;
+		margin: 0;
+	}
+}
+.link-items {
+	display: flex;
+	justify-content: flex-end;
+	ul{
+		list-style: none;
+		margin: 0;
+	}
+	a {
+		color: $ltgrey;
+		font-size: 1.25em;
+		text-decoration: none;
+	}
+	a:hover {
+		font-weight: 600;
+		text-shadow: 2px 1px 1px #000;
+	}
+	li{
+		display: inline;
+		margin-left: 1.5em;
+	}
+}
+code{
+	background-color: white;
+	color: $grey;
+}
+.container{
+	background: $ltgrey;
+	display: flex;
+	flex-direction: column;
+	padding: 0.5em 2em;
+}
+
+.indexList {
+	margin-top: 1em;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.description{
+	width: 20%;
+	padding-right: 0.5em;
+}
+.title {
+	font-family: 'Bitter', serif;
+}
+h2{
+	color: $orange;
+}
+
+.embedded {
+	flex-grow: 3;
+}
+.date {
+	color: $dkgrey;
+	display: flex;
+	font-weight: bold;
+	justify-content: flex-end;
+}
