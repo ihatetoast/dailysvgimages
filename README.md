@@ -3,7 +3,7 @@
 
 ### Week 1:
 * Day 1: Toad from Mario Kart
-* Day 2: 
+* Day 2: Goomba from Mario Kart
 * Day 3: 
 * Day 4: 
 * Day 5: 
