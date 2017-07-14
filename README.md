@@ -6,7 +6,7 @@
 * Day 2: Goomba from Mario Kart
 * Day 3: Pipe from Mario Kart
 * Day 4: Block from Mario Kart
-* Day 5: 
+* Day 5: Shy Guy from Mario Kart
 
 ### Week 2:
 * Day 1: 
