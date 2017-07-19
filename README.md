@@ -1,17 +1,17 @@
 # Pure SVG Images Bucket
 # #dailySVGimages on the Twitz.
 
-### Week 1:
-* Day 1: Toad from Mario Kart
-* Day 2: Goomba from Mario Kart
-* Day 3: Pipe from Mario Kart
-* Day 4: Block from Mario Kart
-* Day 5: Shy Guy from Mario Kart
+### Week 1: Mario Kart
+* Day 1: Toad
+* Day 2: Goomba
+* Day 3: Pipe
+* Day 4: Block
+* Day 5: Shy Guy
 
-### Week 2:
-* Day 1: 
-* Day 2: 
-* Day 3: 
+### Week 2: emojis
+* Day 1: Alien monster
+* Day 2: Hear-No-Evil monkey
+* Day 3: Skull
 * Day 4: 
 * Day 5: 
 
