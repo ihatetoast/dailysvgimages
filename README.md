@@ -12,7 +12,7 @@
 * Day 1: Alien monster
 * Day 2: Hear-No-Evil monkey
 * Day 3: Skull
-* Day 4: 
+* Day 4: Hatching chick
 * Day 5: 
 
 ### Week 3:
