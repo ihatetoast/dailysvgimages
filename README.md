@@ -8,12 +8,12 @@
 * Day 4: Block
 * Day 5: Shy Guy
 
-### Week 2: emojis
+### Week 2: Emoji week
 * Day 1: Alien monster
 * Day 2: Hear-No-Evil monkey
 * Day 3: Skull
 * Day 4: Hatching chick
-* Day 5: 
+* Day 5: Emoji of choice
 
 ### Week 3:
 * Day 1: 
