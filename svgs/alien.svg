@@ -1,0 +1,89 @@
+
+<svg  viewBox="0 0 171 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient cx="39.978528%" cy="45.6762695%" fx="39.978528%" fy="45.6762695%" r="100%" gradientTransform="translate(0.399785,0.456763),scale(0.935673,1.000000),rotate(90.000000),translate(-0.399785,-0.456763)" id="radialGradient-1">
+            <stop stop-color="#6ADC5B" offset="0%"></stop>
+            <stop stop-color="#144D02" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-61.5%" y="-64.7%" width="223.0%" height="229.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12.2977941" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.772727,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#DCF803" offset="0%"></stop>
+            <stop stop-color="#CED406" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" gradientTransform="translate(0.500000,0.000000),scale(0.759615,1.000000),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-4">
+            <stop stop-color="#DCF803" offset="0%"></stop>
+            <stop stop-color="#CED406" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5ABB47" offset="0%"></stop>
+            <stop stop-color="#60EA44" offset="47.7719907%"></stop>
+            <stop stop-color="#5ABB47" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="51.0896391%" cy="53.0836769%" fx="51.0896391%" fy="53.0836769%" r="65.072835%" gradientTransform="translate(0.510896,0.530837),scale(0.893215,1.000000),rotate(90.000001),translate(-0.510896,-0.530837)" id="radialGradient-6">
+            <stop stop-color="#126D06" offset="0%"></stop>
+            <stop stop-color="#27DE0F" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-7" cx="49.3884417" cy="15.0014972" rx="16.7949432" ry="15.0014972"></ellipse>
+        <filter x="-4.5%" y="-5.0%" width="108.9%" height="110.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+<feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+<feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <filter x="-23.9%" y="-17.5%" width="147.8%" height="135.1%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1.75379136" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <ellipse id="path-10" cx="12" cy="24" rx="12" ry="24"></ellipse>
+        <ellipse id="path-12" cx="12" cy="24" rx="12" ry="24"></ellipse>
+        <ellipse id="path-14" cx="12" cy="24" rx="12" ry="24"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="head" transform="translate(0.000000, 1.000000)">
+            <ellipse id="Oval" fill="url(#radialGradient-1)" cx="85.5" cy="140" rx="85.5" ry="80"></ellipse>
+            <ellipse id="Oval-2" fill="#89D94B" filter="url(#filter-2)" cx="79" cy="144.5" rx="30" ry="28.5"></ellipse>
+<g id="leftant" transform="translate(12.000000, 0.000000)">
+  <path d="M46,15.5700649 C42.2378954,6.14109302 36.0948862,0 29.1553833,0 C17.707732,0 11,13.8670087 11,34.4819885 C11,45.056614 11,59.8959512 11,79" id="antenna-copy" stroke="#000000" stroke-width="2" transform="translate(28.500000, 39.500000) scale(-1, 1) translate(-28.500000, -39.500000) "></path>
+                <ellipse id="Oval-4-Copy" fill="url(#radialGradient-3)" cx="11" cy="18.5" rx="11" ry="8.5"></ellipse>
+            </g>
+            <ellipse id="mouth" fill="#801A06" cx="86" cy="209" rx="20" ry="8"></ellipse>
+            <g id="rightant" transform="translate(117.000000, 0.000000)">
+                <path d="M35,15.5700649 C31.2378954,6.14109302 25.0948862,0 18.1553833,0 C6.70773198,0 7.2858386e-15,13.8670087 7.2858386e-15,34.4819885 C7.2858386e-15,45.056614 4.85722573e-15,59.8959512 0,79" id="antenna" stroke="#000000" stroke-width="2"></path>
+                <ellipse id="Oval-4" fill="url(#radialGradient-4)" cx="35" cy="15.9519231" rx="11" ry="8.35576923"></ellipse>
+            </g>
+            <g id="snout" transform="translate(85.272909, 172.025341) rotate(-271.000000) translate(-85.272909, -172.025341) translate(51.772909, 156.525341)">
+                <path d="M11,-5.68434189e-13 C15.3649358,2.22244403 20.552124,3.33366605 26.5615646,3.33366605 C32.5710052,3.33366605 38.5804458,2.22244403 44.5898864,-5.68434189e-13 L44.5898864,30.0029945 C38.59138,27.7805504 32.8596683,26.6693284 27.3947512,26.6693284 C21.9298341,26.6693284 16.4649171,27.7805504 11,30.0029945 L11,-5.68434189e-13 Z" id="Rectangle" fill="url(#linearGradient-5)"></path>
+                <g id="Oval">
+                    <use fill="url(#radialGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                </g>
+                <ellipse id="Oval-3" fill="#85D74C" filter="url(#filter-9)" cx="10.9995431" cy="15.0523572" rx="11" ry="15"></ellipse>
+            </g>
+            <g id="centereye" transform="translate(74.000000, 85.000000)">
+                <mask id="mask-11" fill="white">
+                    <use xlink:href="#path-10"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-10"></use>
+                <ellipse id="Oval-5" fill="#000000" mask="url(#mask-11)" cx="12" cy="32.5" rx="14" ry="18.5"></ellipse>
+                <path d="M1,25.0737922 C3.52438072,24.4747051 5.49753766,22.4961183 6.03834772,20 C6.57366862,22.4707829 8.51240755,24.4344868 11,25.0551247 C8.65656231,25.5164435 6.74957889,27.1575032 5.9542262,29.3178051 C5.16925587,27.1857033 3.30148738,25.5593761 1,25.0737922 Z" id="sparkle-copy" class="sparkles" fill="#FFFFFF" mask="url(#mask-11)"></path>
+            </g>
+            <g id="lefteye" transform="translate(12.000000, 109.000000)">
+                <mask id="mask-13" fill="white">
+                    <use xlink:href="#path-12"></use>
+                </mask>
+                <use id="lefteyewhite" fill="#FFFFFF" xlink:href="#path-12"></use>
+                <ellipse id="leftiris" fill="#000000" mask="url(#mask-13)" cx="16" cy="32.5" rx="14" ry="18.5"></ellipse>
+                <path d="M5,24.0737922 C7.52438072,23.4747051 9.49753766,21.4961183 10.0383477,19 C10.5736686,21.4707829 12.5124075,23.4344868 15,24.0551247 C12.6565623,24.5164435 10.7495789,26.1575032 9.9542262,28.3178051 C9.16925587,26.1857033 7.30148738,24.5593761 5,24.0737922 Z" id="sparkle" class="sparkles" fill="#FFFFFF" mask="url(#mask-13)"></path>
+            </g>
+            <g id="righteye" transform="translate(134.000000, 109.000000)">
+                <mask id="mask-15" fill="white">
+                    <use xlink:href="#path-14"></use>
+                </mask>
+                <use id="righteyewhite" fill="#FFFFFF" xlink:href="#path-14"></use>
+                <ellipse id="rightiris" fill="#000000" mask="url(#mask-15)" cx="8" cy="32.5" rx="14" ry="18.5"></ellipse>
+                <path d="M1,22.0737922 C3.52438072,21.4747051 5.49753766,19.4961183 6.03834772,17 C6.57366862,19.4707829 8.51240755,21.4344868 11,22.0551247 C8.65656231,22.5164435 6.74957889,24.1575032 5.9542262,26.3178051 C5.16925587,24.1857033 3.30148738,22.5593761 1,22.0737922 Z" id="sparkle-copy-2" class="sparkles" fill="#FFFFFF" mask="url(#mask-15)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

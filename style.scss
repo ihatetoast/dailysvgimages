@@ -61,11 +61,12 @@ code{
 .indexList {
 	margin-top: 1em;
 	display: flex;
+	justify-content: space-around;
 	flex-wrap: wrap;
 
 }
 .description{
-	width: 20%;
+	width: 40%;
 	padding-right: 0.5em;
 }
 .title {
@@ -76,11 +77,247 @@ h2{
 }
 
 .embedded {
-	flex-grow: 3;
+	width: 400px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	position:relative;
+	background-color: #010101;
+}
+.svgBox{
+	position:absolute;
+	top: 5%;
+	left: 5%;
+	width: 90%;
+	height: 90%;
 }
 .date {
 	color: $dkgrey;
 	display: flex;
 	font-weight: bold;
 	justify-content: flex-end;
+}
+.codepenEmbedded {
+	width: 70%;
+	margin: 0.5em auto;
+}
+
+// INDIVIDUAL DIVS FOR THE DAYS
+// NEEDED FOR INDIV BACKGROUNDS
+//gail lego const worker
+#gail{
+	 height: 90%;
+    position: absolute;
+    top: 5%;
+    left: 22.8%;
+}
+.gail{
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+.gailSVG{
+	width: 10%;
+}
+
+//trex
+#trex{
+    width: 90%;
+    position: absolute;
+    top: 25%;
+}
+.trex{
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+.trexSVG{
+	width: 10%;
+}
+.trexSky{
+	position:absolute;
+  width: 100%;
+  height: 75%;
+  background-image: linear-gradient(to top, #432c39 0%,  #fda34b 1%, #ff7882 25%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+}
+.trexGround{
+	position:absolute;
+  width: 100%;
+  height: 25%;
+  top: 75%;
+  background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
+}
+
+//batman
+#batman{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 20%;
+}
+.batman{
+	background: rgb(117, 12, 12);
+}
+.batmanSVG{
+	width: 10%;
+}
+
+
+//twister emoji
+
+#twister{
+	  position: absolute;
+    height: 71%;
+    top: 5%;
+    left: -9%;
+}
+.twisterSky{
+	width: 100%;
+  height: 75%;
+	background-image: linear-gradient(to bottom, #a8caba 0%, #5d4157 100%);
+}
+.twisterGround{
+	position:absolute;
+	width: 100%;
+  height: 25%;
+	top: 75%;
+	background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
+}
+.twisterSVG{
+	width: 10%;
+}
+
+//metal chick
+
+
+.chick{
+	background: #050505;
+}
+.h1Chick{
+  position: absolute;
+  left: 12%;
+  font-family: 'Metal Mania', cursive;
+  font-size: 2em;
+  letter-spacing: 0.4em;
+  text-shadow: 2px 2px 2px rgb(117, 12, 12), -2px -2px 2px rgb(117, 12, 12);
+}
+#chickSVG{
+	position: absolute;
+	width: 100%;
+	top: 32%;
+}
+
+
+//skull 
+
+
+.skull{
+	background: rgb(117, 12, 12);
+}
+
+#skullSVG{
+	position:absolute;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+}
+#skullSVG{
+	position: absolute;
+    left: 10%;
+
+}
+
+// monkey
+
+#monkeySVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 4.5%;
+}
+.monkey{
+	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+
+// monkey
+
+#monkeySVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 4.5%;
+}
+.monkey{
+	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+// alien
+
+#alienSVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+}
+.alien{
+	background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+}
+
+// shyguy
+
+#shyguySVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+}
+.shyguy{
+	background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+// block
+
+#blockSVG{
+	width: 90%;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+}
+.block{
+	background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
+}
+
+
+// pipe
+
+#pipeSVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 9%;
+}
+.pipe{
+	background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+}
+
+// goomba
+
+#goombaSVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 18%;
+}
+.goomba{
+	background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+}
+
+// toad
+
+#toadSVG{
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 23%;
+}
+.toad{
+	background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
 }

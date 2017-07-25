@@ -1,0 +1,29 @@
+
+  <svg viewBox="0 0 472 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pipe">
+            <g id="pipebase" transform="translate(54.000000, 170.000000)">
+                <rect id="pipe_bg" fill="#005E04" x="0" y="0" width="367" height="370" rx="6"></rect>
+                <rect id="Rectangle-Copy" fill="#00820E" x="18" y="10" width="45" height="350"></rect>
+                <rect id="Rectangle-Copy-3" fill="#00820E" x="76" y="10" width="9" height="350"></rect>
+                <rect id="Rectangle-2-Copy" fill="#00A813" x="63" y="10" width="13" height="350"></rect>
+                <rect id="Rectangle-2-Copy-3" fill="#00A813" x="85" y="10" width="120" height="350"></rect>
+                <rect id="Rectangle-3-Copy" fill="#00D818" x="205" y="10" width="70" height="350"></rect>
+                <rect id="Rectangle-3-Copy-3" fill="#00D818" x="295" y="10" width="28" height="350"></rect>
+                <rect id="Rectangle-4-Copy" fill="#00C716" x="275" y="10" width="20" height="350"></rect>
+                <rect id="Rectangle-4-Copy-3" fill="#00C716" x="323" y="10" width="32" height="350"></rect>
+            </g>
+            <g id="rim">
+                <rect id="piperim_bg" fill="#005E04" x="0" y="0" width="472" height="178" rx="6"></rect>
+                <rect id="Rectangle-4" fill="#00C716" x="353" y="10" width="20" height="160"></rect>
+                <rect id="Rectangle-4-Copy-2" fill="#00C716" x="402" y="10" width="60" height="160"></rect>
+                <rect id="Rectangle-2" fill="#00A813" x="71" y="10" width="13" height="160"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#00A813" x="93" y="10" width="190" height="160"></rect>
+                <rect id="Rectangle" fill="#00820E" x="20" y="10" width="51" height="160"></rect>
+                <rect id="Rectangle-Copy-2" fill="#00820E" x="84" y="10" width="9" height="160"></rect>
+                <rect id="Rectangle-3" fill="#00D818" x="283" y="10" width="70" height="160"></rect>
+                <rect id="Rectangle-3-Copy-2" fill="#00D818" x="373" y="10" width="30" height="160"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
