@@ -104,19 +104,30 @@ h2{
 
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
-//gail lego const worker
-#gail{
+
+//popo
+#popoSVG{
 	 height: 90%;
     position: absolute;
     top: 5%;
-    left: 22.8%;
+    left: 15.5%;
+}
+.popo{
+	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+
+//gail lego const worker
+#gailSVG{
+	 height: 90%;
+    position: absolute;
+    top: 5%;
+    left: 23%;
 }
 .gail{
 	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
-.gailSVG{
-	width: 10%;
-}
+
 
 //trex
 #trex{
