@@ -91,6 +91,25 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#drumkitSVG {
+  width: 100%;
+  position: absolute;
+  top: 19%; }
+
+.upperStage {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 66%;
+  background-image: linear-gradient(to bottom, #09203f 0%, #537895 100%); }
+
+.floorStage {
+  position: absolute;
+  width: 100%;
+  top: 65%;
+  height: 35%;
+  background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%); }
+
 #boratSVG {
   height: 90%;
   position: absolute;

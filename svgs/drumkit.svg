@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg  viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad drumkit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="212" height="80"></rect>
+        <path d="M0.204445042,0.447085729 L260.204445,0.447085729 L252.399112,23.4470857 C250.899715,27.8653637 244.736892,31.4470857 238.634062,31.4470857 L21.7748283,31.4470857 C15.6719978,31.4470857 9.50917485,27.8653637 8.00977788,23.4470857 L0.204445042,0.447085729 Z" id="path-2"></path>
+        <path d="M3.12011834,92.2791189 L263.120118,92.2791189 L255.314786,115.279119 C253.815389,119.697397 247.652566,123.279119 241.549735,123.279119 L24.6905016,123.279119 C18.5876711,123.279119 12.4248481,119.697397 10.9254512,115.279119 L3.12011834,92.2791189 Z" id="path-3"></path>
+        <rect id="path-4" x="0" y="0" width="141" height="131"></rect>
+        <path d="M0,0 L179,0 L173.626329,23 C172.594051,27.418278 168.351185,31 164.149621,31 L14.8503792,31 C10.6488152,31 6.4059486,27.418278 5.37367145,23 L0,0 Z" id="path-5"></path>
+        <path d="M0,137 L179,137 L173.626329,160 C172.594051,164.418278 168.351185,168 164.149621,168 L14.8503792,168 C10.6488152,168 6.4059486,164.418278 5.37367145,160 L0,137 Z" id="path-6"></path>
+        <rect id="path-7" x="19" y="12" width="141" height="187"></rect>
+        <path d="M2.84217094e-14,0 L179,0 L173.626329,23 C172.594051,27.418278 168.351185,31 164.149621,31 L14.8503792,31 C10.6488152,31 6.4059486,27.418278 5.37367145,23 L2.84217094e-14,0 Z" id="path-8"></path>
+        <path d="M5.68434189e-14,180 L179,180 L173.626329,203 C172.594051,207.418278 168.351185,211 164.149621,211 L14.8503792,211 C10.6488152,211 6.4059486,207.418278 5.37367145,203 L5.68434189e-14,180 Z" id="path-9"></path>
+        <rect id="path-10" x="0" y="0" width="141" height="131"></rect>
+        <path d="M0,0 L179,0 L173.626329,23 C172.594051,27.418278 168.351185,31 164.149621,31 L14.8503792,31 C10.6488152,31 6.4059486,27.418278 5.37367145,23 L0,0 Z" id="path-11"></path>
+        <path d="M0,137 L179,137 L173.626329,160 C172.594051,164.418278 168.351185,168 164.149621,168 L14.8503792,168 C10.6488152,168 6.4059486,164.418278 5.37367145,160 L0,137 Z" id="path-12"></path>
+        <circle id="path-13" cx="186.5" cy="163.5" r="163.5"></circle>
+        <circle id="path-14" cx="187" cy="164" r="142"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad_drumkit">
+            <g id="drumkit" transform="translate(63.000000, 78.000000)">
+                <g id="snare" transform="translate(746.784373, 417.001599) rotate(-2.000000) translate(-746.784373, -417.001599) translate(605.784373, 206.501599)">
+                    <g id="stand" transform="translate(53.000000, 142.000000)" stroke="#000000" stroke-width="10" stroke-linecap="round">
+                        <path d="M78.1721809,206.440411 L58.5733109,0.429957713" id="Line-Copy-5"></path>
+                        <polyline id="Line-Copy-6" points="0.650932005 274.11379 81.3463925 207.349117 112.557216 278.021644"></polyline>
+                    </g>
+                    <g id="snaredrum" transform="translate(108.501467, 90.472105) rotate(-9.000000) translate(-108.501467, -90.472105) translate(-23.498533, 28.472105)">
+                        <g id="Group" transform="translate(25.000000, 14.000000)">
+                            <g id="Rectangle-Copy">
+                                <use fill="#1ADBDB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#000000" stroke-width="10" x="-5" y="-5" width="222" height="90"></rect>
+                            </g>
+                            <rect id="Rectangle" fill-opacity="0.810000002" fill="#98B2B2" style="mix-blend-mode: darken;" x="136" y="0" width="81" height="86"></rect>
+                        </g>
+                        <g id="Rectangle-2">
+                            <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <path stroke="#000000" stroke-width="10" d="M7.18132937,5.44708573 L12.744561,21.8402788 C13.4862108,24.0257007 17.6525217,26.4470857 21.7748283,26.4470857 L238.634062,26.4470857 C242.756368,26.4470857 246.922679,24.0257007 247.664329,21.8402788 L253.227561,5.44708573 L7.18132937,5.44708573 Z"></path>
+                        </g>
+                        <g id="Rectangle-2-Copy-2" transform="translate(133.120118, 107.779119) scale(1, -1) translate(-133.120118, -107.779119) ">
+                            <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <path stroke="#000000" stroke-width="10" d="M10.0970027,97.2791189 L15.6602343,113.672312 C16.4018841,115.857734 20.568195,118.279119 24.6905016,118.279119 L241.549735,118.279119 C245.672042,118.279119 249.838353,115.857734 250.580002,113.672312 L256.143234,97.2791189 L10.0970027,97.2791189 Z"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="tom_2" transform="translate(554.191161, 293.302074) rotate(-6.000000) translate(-554.191161, -293.302074) translate(464.691161, 209.302074)">
+                    <g id="Group" transform="translate(19.000000, 12.000000)">
+                        <g id="Rectangle-Copy">
+                            <use fill="#1ADBDB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <rect stroke="#000000" stroke-width="10" x="-5" y="-5" width="151" height="141"></rect>
+                        </g>
+                        <rect id="Rectangle" fill-opacity="0.810000002" fill="#98B2B2" style="mix-blend-mode: darken;" x="90" y="0" width="54" height="140"></rect>
+                    </g>
+                    <g id="Rectangle-2">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,5 L10.2425492,21.8624457 C10.7600325,24.0773403 13.037593,26 14.8503792,26 L164.149621,26 C165.962407,26 168.239968,24.0773403 168.757451,21.8624457 L172.697157,5 L6.30284295,5 Z"></path>
+                    </g>
+                    <g id="Rectangle-2-Copy" transform="translate(89.500000, 152.500000) scale(1, -1) translate(-89.500000, -152.500000) ">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,142 L10.2425492,158.862446 C10.7600325,161.07734 13.037593,163 14.8503792,163 L164.149621,163 C165.962407,163 168.239968,161.07734 168.757451,158.862446 L172.697157,142 L6.30284295,142 Z"></path>
+                    </g>
+                </g>
+                <g id="tom_1" transform="translate(176.437457, 414.792206) rotate(7.000000) translate(-176.437457, -414.792206) translate(82.937457, 199.792206)">
+                    <g id="tom_stand" transform="translate(73.000000, 191.000000)" stroke="#000000" stroke-width="10" stroke-linecap="round">
+                        <path d="M50.7519686,183.711471 L15.6886246,1.30405793" id="Line-Copy-3"></path>
+                        <polyline id="Line-Copy-4" points="0.614415495 238.370677 48.9512934 180.366423 113.353968 224.528"></polyline>
+                    </g>
+                    <g id="Rectangle-Copy">
+                        <use fill="#1ADBDB" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#000000" stroke-width="10" x="14" y="7" width="151" height="197"></rect>
+                    </g>
+                    <rect id="Rectangle" fill-opacity="0.810000002" fill="#98B2B2" style="mix-blend-mode: darken;" x="109" y="12" width="54" height="200"></rect>
+                    <g id="Rectangle-2">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,5 L10.2425492,21.8624457 C10.7600325,24.0773403 13.037593,26 14.8503792,26 L164.149621,26 C165.962407,26 168.239968,24.0773403 168.757451,21.8624457 L172.697157,5 L6.30284295,5 Z"></path>
+                    </g>
+                    <g id="Rectangle-2-Copy" transform="translate(89.500000, 195.500000) scale(1, -1) translate(-89.500000, -195.500000) ">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,185 L10.2425492,201.862446 C10.7600325,204.07734 13.037593,206 14.8503792,206 L164.149621,206 C165.962407,206 168.239968,204.07734 168.757451,201.862446 L172.697157,185 L6.30284295,185 Z"></path>
+                    </g>
+                </g>
+                <g id="tom_3" transform="translate(344.430809, 292.916680) rotate(10.000000) translate(-344.430809, -292.916680) translate(254.930809, 208.916680)">
+                    <g id="Group" transform="translate(19.000000, 12.000000)">
+                        <g id="Rectangle-Copy">
+                            <use fill="#1ADBDB" fill-rule="evenodd" xlink:href="#path-10"></use>
+                            <rect stroke="#000000" stroke-width="10" x="-5" y="-5" width="151" height="141"></rect>
+                        </g>
+                        <rect id="Rectangle" fill-opacity="0.810000002" fill="#98B2B2" style="mix-blend-mode: darken;" x="90" y="0" width="54" height="140"></rect>
+                    </g>
+                    <g id="Rectangle-2">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,5 L10.2425492,21.8624457 C10.7600325,24.0773403 13.037593,26 14.8503792,26 L164.149621,26 C165.962407,26 168.239968,24.0773403 168.757451,21.8624457 L172.697157,5 L6.30284295,5 Z"></path>
+                    </g>
+                    <g id="Rectangle-2-Copy" transform="translate(89.500000, 152.500000) scale(1, -1) translate(-89.500000, -152.500000) ">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        <path stroke="#000000" stroke-width="10" d="M6.30284295,142 L10.2425492,158.862446 C10.7600325,161.07734 13.037593,163 14.8503792,163 L164.149621,163 C165.962407,163 168.239968,161.07734 168.757451,158.862446 L172.697157,142 L6.30284295,142 Z"></path>
+                    </g>
+                </g>
+                <g id="bass" transform="translate(264.000000, 306.000000)">
+                    <path d="M0.5,305.5 L90.5,197.5" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="round"></path>
+                    <path d="M273.5,305.5 L363.5,197.5" id="Line-Copy" stroke="#000000" stroke-width="10" stroke-linecap="round" transform="translate(318.500000, 251.500000) scale(-1, 1) translate(-318.500000, -251.500000) "></path>
+                    <g id="Oval">
+                        <use fill="#BDDDDD" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <circle stroke="#000000" stroke-width="10" cx="186.5" cy="163.5" r="158.5"></circle>
+                    </g>
+                    <g id="bass_skin">
+                        <use fill="#CFF2F2" fill-rule="evenodd" xlink:href="#path-14"></use>
+                        <circle stroke="#000000" stroke-width="10" cx="187" cy="164" r="137"></circle>
+                    </g>
+                    <path d="M231.532071,39 C282.583765,57.8360235 318.986235,106.927545 318.986235,164.52132 C318.986235,236.799567 261.654512,295.687272 189.986296,298.189206 C238.106194,274.227753 271.890924,217.91997 271.890924,152.276539 C271.890924,107.871442 256.431136,67.7383096 231.532067,38.9999954 Z" id="bass_shadow" fill="#1AB9B9"></path>
+                    <text id="Blue-Barry’s" font-family="Cochin-Bold, Cochin" font-size="48" font-weight="bold" letter-spacing="5" fill="#FFB606">
+                        <tspan x="129" y="152">Blue</tspan>
+                        <tspan x="93.948" y="208">Barry’s</tspan>
+                    </text>
+                </g>
+                <g id="cymbal_large" stroke="#000000" stroke-width="10">
+                    <g id="cym_stand_large" transform="translate(0.000000, 74.000000)" stroke-linecap="round">
+                        <path d="M57,434 L126,0" id="Line-Copy-3"></path>
+                        <polyline id="Line-Copy-4" points="0.614415495 549.370677 56.9841918 431.271945 183.254369 549.370677"></polyline>
+                    </g>
+                    <path d="M148.380092,61.620367 L277.274208,104.151086 L277.274208,104.151086 C278.84762,104.670259 279.70225,106.366634 279.183077,107.940046 C278.777403,109.169487 277.628804,110 276.334162,110 L16.6658377,110 L16.6658377,110 C15.0089835,110 13.6658377,108.656854 13.6658377,107 C13.6658377,105.705358 14.4963509,104.55676 15.7257919,104.151086 L144.619908,61.620367 L144.619908,61.620367 C145.840926,61.2174723 147.159074,61.2174723 148.380092,61.620367 Z" id="cym_large" fill="#DA9810" transform="translate(146.500000, 85.500000) rotate(25.000000) translate(-146.500000, -85.500000) "></path>
+                </g>
+                <g id="cymbal_small" transform="translate(383.000000, 154.000000)" stroke="#000000" stroke-width="10">
+                    <path d="M74.5,151.5 L62,32" id="Line-Copy-2" stroke-linecap="round"></path>
+                    <path d="M67.916046,5.96704671 L125.44391,34.7309787 L125.44391,34.7309787 C126.431867,35.2249572 126.832316,36.4263033 126.338337,37.4142603 C125.999553,38.0918284 125.307027,38.5198331 124.549483,38.5198331 L9.49375473,38.5198331 L9.49375473,38.5198331 C8.38918523,38.5198331 7.49375473,37.6244026 7.49375473,36.5198331 C7.49375473,35.762289 7.92175949,35.0697628 8.59932754,34.7309787 L66.1271916,5.96704671 L66.1271916,5.96704671 C66.6902466,5.68551922 67.352991,5.68551922 67.916046,5.96704671 Z" id="cym_small" fill="#DA9810" transform="translate(67.021619, 22.019833) rotate(-4.000000) translate(-67.021619, -22.019833) "></path>
+                </g>
+                <g id="cymbal_med" transform="translate(669.000000, 41.000000)" stroke="#000000" stroke-width="10">
+                    <g id="cym_stand_med" transform="translate(150.000000, 308.000000) scale(-1, 1) translate(-150.000000, -308.000000) translate(72.000000, 33.000000)" stroke-linecap="round">
+                        <path d="M109,445 L126,0" id="Line-Copy-3"></path>
+                        <polyline id="Line-Copy-4" transform="translate(78.307208, 490.321311) scale(-1, 1) translate(-78.307208, -490.321311) " points="0.614415495 549.370677 48.5724361 431.271945 156 549.370677"></polyline>
+                    </g>
+                    <path d="M111.683523,31.0679776 L205.810301,73.7736456 L205.810301,73.7736456 C207.319124,74.458204 207.987322,76.2362907 207.302764,77.7451133 C206.816388,78.8171261 205.747988,79.5056106 204.570799,79.5056106 L16.317242,79.5056106 L16.317242,79.5056106 C14.6603878,79.5056106 13.317242,78.1624649 13.317242,76.5056106 C13.317242,75.3284219 14.0057265,74.2600217 15.0777393,73.7736456 L109.204518,31.0679776 L109.204518,31.0679776 C109.992212,30.7105977 110.895829,30.7105977 111.683523,31.0679776 Z" id="cym_med" fill="#DA9810" transform="translate(110.444020, 55.005611) rotate(-17.000000) translate(-110.444020, -55.005611) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
