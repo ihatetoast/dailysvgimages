@@ -91,6 +91,15 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#guitarheroSVG {
+  width: 90%;
+  left: 5%;
+  position: absolute;
+  top: 30%; }
+
+.guitarhero {
+  background-image: linear-gradient(to top, #4facfe 0%, #00f2fe 100%); }
+
 #drumkitSVG {
   width: 100%;
   position: absolute;

@@ -105,6 +105,17 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+//guitar hero
+#guitarheroSVG{
+	width: 90%;
+  left: 5%;
+  position: absolute;
+  top: 30%;
+}
+
+.guitarhero{
+	background-image: linear-gradient(to top, #4facfe 0%, #00f2fe 100%);
+}
 //drumkit
 #drumkitSVG{
 	width: 100%;
@@ -365,3 +376,5 @@ h2{
 .toad{
 	background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
 }
+
+
