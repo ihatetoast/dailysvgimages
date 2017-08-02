@@ -105,6 +105,19 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+
+//musical instrument of choice: xylophone
+#xylophoneSVG{
+	position:absolute;
+	width: 95%;
+  top: 15%;
+  left: 3%;
+}
+
+.xylophone{
+	background: #231f20;
+}
+
 //musical note
 #noteSVG{
 	position:absolute;

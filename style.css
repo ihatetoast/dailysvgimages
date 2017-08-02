@@ -91,6 +91,15 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#xylophoneSVG {
+  position: absolute;
+  width: 95%;
+  top: 15%;
+  left: 3%; }
+
+.xylophone {
+  background: #231f20; }
+
 #noteSVG {
   position: absolute;
   height: 90%;
