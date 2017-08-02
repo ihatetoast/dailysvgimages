@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 118 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>note</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="40.4347837%" cy="36.4905631%" fx="40.4347837%" fy="36.4905631%" r="79.4012995%" gradientTransform="translate(0.404348,0.364906),scale(0.884058,1.000000),rotate(90.000000),translate(-0.404348,-0.364906)" id="radialGradient-1">
+            <stop stop-color="#6E6262" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-382.000000, -133.000000)">
+            <g id="note" transform="translate(382.000000, 134.000000)">
+                <path d="M66,139.5 L66,2.5" id="Line" stroke="#110F0F" stroke-width="6" stroke-linecap="round"></path>
+                <ellipse id="Oval" fill="url(#radialGradient-1)" cx="34.5" cy="137.5" rx="34.5" ry="30.5"></ellipse>
+                <path d="M63,41.4217188 C63,30.1930356 63,17.385794 63,2.99999389 C63,2.21213758 63.3099266,1.4559024 63.8628326,0.894642628 C65.025586,-0.285678681 66.9250233,-0.299920291 68.1053446,0.862833102 L68.1053493,0.862828369 C78.8380909,11.4358238 86.3027817,18.529159 90.4994215,22.1428341 C106.933417,36.2939461 118,44.6541665 118,55.6583091 C118,74.322559 104.909042,99.0222629 91.4767372,109.923998 C100.034193,97.9005919 107.005176,83.1365719 107.626505,71.242549 C108.903194,46.8030819 78.2644178,41.3155608 64.6926523,41.3155608 C64.1237119,41.3155608 63.5592874,41.3513299 63,41.4217188 Z" id="Combined-Shape" fill="#110F0F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

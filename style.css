@@ -91,6 +91,24 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#noteSVG {
+  position: absolute;
+  height: 90%;
+  top: 5%;
+  left: 20%; }
+
+.note {
+  background: #d24b4b; }
+
+#harmonicaSVG {
+  width: 90%;
+  left: 5%;
+  position: absolute;
+  top: 30%; }
+
+.harmonica {
+  background: #fbd2d7; }
+
 #guitarheroSVG {
   width: 90%;
   left: 5%;

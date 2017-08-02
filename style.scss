@@ -105,6 +105,30 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+//musical note
+#noteSVG{
+	position:absolute;
+	height: 90%;
+  top: 5%;
+  left: 20%;
+}
+
+.note{
+	background: rgb(210, 75, 75);
+}
+
+//harmonica
+#harmonicaSVG{
+	width: 90%;
+  left: 5%;
+  position: absolute;
+  top: 30%;
+}
+
+.harmonica{
+	background: rgb(251, 210, 215);
+}
+
 //guitar hero
 #guitarheroSVG{
 	width: 90%;

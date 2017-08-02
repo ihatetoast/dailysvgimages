@@ -15,18 +15,18 @@
 * Day 4: Hatching chick
 * Day 5: Emoji of choice
 
-### Week 3:
-* Day 1: 
-* Day 2: 
-* Day 3: 
-* Day 4: 
-* Day 5: 
+### Week 3: Lego
+* Day 1: Batman
+* Day 2: Jurassic Park
+* Day 3: Construction worker
+* Day 4: Police
+* Day 5: Lego of choice (I made it Borat)
 
-### Week 4:
-* Day 1: 
-* Day 2: 
-* Day 3: 
-* Day 4: 
+### Week 4: Music
+* Day 1: Drum kit
+* Day 2: Guitar Hero 
+* Day 3: Harmonica
+* Day 4: Musical note
 * Day 5: 
 
 ### Week 5:
