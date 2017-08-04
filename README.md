@@ -27,11 +27,11 @@
 * Day 2: Guitar Hero 
 * Day 3: Harmonica
 * Day 4: Musical note
-* Day 5: 
+* Day 5: Instrument of choice (xylophone)
 
-### Week 5:
-* Day 1: 
-* Day 2: 
+### Week 5: Playstation (might skip, as I have zero interest in PS and the trend is staying to ... gamey. Or just return to later.)
+* Day 1: Crash Bandicoot
+* Day 2: Spyroo
 * Day 3: 
 * Day 4: 
 * Day 5: 
