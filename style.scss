@@ -105,7 +105,17 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+//sprinkle doughnut
+#sprinklesSVG{
+	position:absolute;
+	width: 95%;
+  top: 15%;
+  left: 3%;
+}
 
+.sprinkles{
+	background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
 //musical instrument of choice: xylophone
 #xylophoneSVG{
 	position:absolute;
