@@ -105,12 +105,23 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+//cake
+#coffeecakeSVG{
+	position:absolute;
+	width: 110%;
+	left: -5%;
+}
+
+.coffeecake{
+	background: #FCD4D4;
+}
+
 //sprinkle doughnut
 #sprinklesSVG{
 	position:absolute;
 	width: 95%;
-  top: 15%;
-  left: 3%;
+	top: 15%;
+	left: 3%;
 }
 
 .sprinkles{

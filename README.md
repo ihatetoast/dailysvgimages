@@ -32,12 +32,12 @@
 ### Week 5: Playstation (might skip, as I have zero interest in PS and the trend is staying to ... gamey. Or just return to later.)
 * Day 1: Crash Bandicoot
 * Day 2: Spyroo
-* Day 3: 
-* Day 4: 
-* Day 5: 
+* Day 3: dunno, don't care
+* Day 4: dunno, don't care
+* Day 5: dunno, don't care ... of choice
 
 ### Week 6:
-* Day 1: 
+* Day 1: Sprinkle doughnut
 * Day 2: 
 * Day 3: 
 * Day 4: 

@@ -91,6 +91,14 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#coffeecakeSVG {
+  position: absolute;
+  width: 110%;
+  left: -5%; }
+
+.coffeecake {
+  background: #FCD4D4; }
+
 #sprinklesSVG {
   position: absolute;
   width: 95%;
