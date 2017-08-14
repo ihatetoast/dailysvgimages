@@ -2,7 +2,7 @@
 
 /*font-family: 'Raleway', sans-serif;
 font-family: 'Bitter', serif;*/
-html{
+html {
 	font-family: 'Raleway', sans-serif;
 	a {
 		text-decoration: none;
@@ -12,14 +12,14 @@ html{
 		font-weight: bolder;
 	}
 }
-body{
+body {
 	margin: 0;
 }
-header{
+header {
 	background: $dkgrey;
-	padding: 2em 2em 0.5em 2em;;
+	padding: 2em 2em 0.5em 2em;
 	text-align: center;
-	h1{
+	h1 {
 		color: $orange;
 		font-family: 'Bitter', serif;
 		font-size: 3em;
@@ -29,7 +29,7 @@ header{
 .link-items {
 	display: flex;
 	justify-content: flex-end;
-	ul{
+	ul {
 		list-style: none;
 		margin: 0;
 	}
@@ -42,16 +42,16 @@ header{
 		font-weight: 600;
 		text-shadow: 2px 1px 1px #000;
 	}
-	li{
+	li {
 		display: inline;
 		margin-left: 1.5em;
 	}
 }
-code{
+code {
 	background-color: white;
 	color: $grey;
 }
-.container{
+.container {
 	background: $ltgrey;
 	display: flex;
 	flex-direction: column;
@@ -63,16 +63,15 @@ code{
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
-
 }
-.description{
+.description {
 	width: 40%;
 	padding-right: 0.5em;
 }
 .title {
 	font-family: 'Bitter', serif;
 }
-h2{
+h2 {
 	color: $orange;
 }
 
@@ -81,11 +80,11 @@ h2{
 	height: 400px;
 	display: flex;
 	justify-content: center;
-	position:relative;
+	position: relative;
 	background-color: #010101;
 }
-.svgBox{
-	position:absolute;
+.svgBox {
+	position: absolute;
 	top: 5%;
 	left: 5%;
 	width: 90%;
@@ -105,334 +104,372 @@ h2{
 // INDIVIDUAL DIVS FOR THE DAYS
 // NEEDED FOR INDIV BACKGROUNDS
 
+//sushi
+#sushiSVG {
+	position: absolute;
+	width: 100%;
+	left: 0%;
+}
+
+.sushi {
+	background: #5a86e8;
+}
+
 //cake
-#coffeecakeSVG{
-	position:absolute;
+#coffeecakeSVG {
+	position: absolute;
 	width: 110%;
 	left: -5%;
 }
 
-.coffeecake{
-	background: #FCD4D4;
+.coffeecake {
+	background: #fcd4d4;
 }
 
 //sprinkle doughnut
-#sprinklesSVG{
-	position:absolute;
+#sprinklesSVG {
+	position: absolute;
 	width: 95%;
 	top: 15%;
 	left: 3%;
 }
 
-.sprinkles{
+.sprinkles {
 	background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 //musical instrument of choice: xylophone
-#xylophoneSVG{
-	position:absolute;
+#xylophoneSVG {
+	position: absolute;
 	width: 95%;
-  top: 15%;
-  left: 3%;
+	top: 15%;
+	left: 3%;
 }
 
-.xylophone{
+.xylophone {
 	background: #231f20;
 }
 
 //musical note
-#noteSVG{
-	position:absolute;
+#noteSVG {
+	position: absolute;
 	height: 90%;
-  top: 5%;
-  left: 20%;
+	top: 5%;
+	left: 20%;
 }
 
-.note{
+.note {
 	background: rgb(210, 75, 75);
 }
 
 //harmonica
-#harmonicaSVG{
+#harmonicaSVG {
 	width: 90%;
-  left: 5%;
-  position: absolute;
-  top: 30%;
+	left: 5%;
+	position: absolute;
+	top: 30%;
 }
 
-.harmonica{
+.harmonica {
 	background: rgb(251, 210, 215);
 }
 
 //guitar hero
-#guitarheroSVG{
+#guitarheroSVG {
 	width: 90%;
-  left: 5%;
-  position: absolute;
-  top: 30%;
+	left: 5%;
+	position: absolute;
+	top: 30%;
 }
 
-.guitarhero{
+.guitarhero {
 	background-image: linear-gradient(to top, #4facfe 0%, #00f2fe 100%);
 }
 //drumkit
-#drumkitSVG{
+#drumkitSVG {
 	width: 100%;
 	position: absolute;
 	top: 19%;
 }
 
-.upperStage{
-	position:absolute;
-  width: 100%;
-  top: 0;
-  height: 66%;
-  background-image: linear-gradient(to bottom, #09203f 0%, #537895 100%);
+.upperStage {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	height: 66%;
+	background-image: linear-gradient(to bottom, #09203f 0%, #537895 100%);
 }
-.floorStage{
-	position:absolute;
-  width: 100%;
-  top: 65%;
-  height: 35%;
-  background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);
+.floorStage {
+	position: absolute;
+	width: 100%;
+	top: 65%;
+	height: 35%;
+	background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);
 }
 
 //borat
-#boratSVG{
-	 height: 90%;
-    position: absolute;
-    top: 5%;
-    left: 15.5%;
+#boratSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15.5%;
 }
-.borat{
+.borat {
 	background-image: linear-gradient(to top, #4facfe 0%, #00f2fe 100%);
 }
 
 //popo
-#popoSVG{
-	 height: 90%;
-    position: absolute;
-    top: 5%;
-    left: 15.5%;
+#popoSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15.5%;
 }
-.popo{
+.popo {
 	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 }
 
-
 //gail lego const worker
-#gailSVG{
-	 height: 90%;
-    position: absolute;
-    top: 5%;
-    left: 23%;
-}
-.gail{
-	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
-}
-
-
-//trex
-#trex{
-    width: 90%;
-    position: absolute;
-    top: 25%;
-}
-.trex{
-	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
-}
-.trexSVG{
-	width: 10%;
-}
-.trexSky{
-	position:absolute;
-  width: 100%;
-  height: 75%;
-  background-image: linear-gradient(to top, #432c39 0%,  #fda34b 1%, #ff7882 25%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
-}
-.trexGround{
-	position:absolute;
-  width: 100%;
-  height: 25%;
-  top: 75%;
-  background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
-}
-
-//batman
-#batman{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 20%;
-}
-.batman{
-	background: rgb(117, 12, 12);
-}
-.batmanSVG{
-	width: 10%;
-}
-
-
-//twister emoji
-
-#twister{
-	  position: absolute;
-    height: 71%;
-    top: 5%;
-    left: -9%;
-}
-.twisterSky{
-	width: 100%;
-  height: 75%;
-	background-image: linear-gradient(to bottom, #a8caba 0%, #5d4157 100%);
-}
-.twisterGround{
-	position:absolute;
-	width: 100%;
-  height: 25%;
-	top: 75%;
-	background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
-}
-.twisterSVG{
-	width: 10%;
-}
-
-//metal chick
-
-
-.chick{
-	background: #050505;
-}
-.h1Chick{
-  position: absolute;
-  left: 12%;
-  font-family: 'Metal Mania', cursive;
-  font-size: 2em;
-  letter-spacing: 0.4em;
-  text-shadow: 2px 2px 2px rgb(117, 12, 12), -2px -2px 2px rgb(117, 12, 12);
-}
-#chickSVG{
-	position: absolute;
-	width: 100%;
-	top: 32%;
-}
-
-
-//skull 
-
-
-.skull{
-	background: rgb(117, 12, 12);
-}
-
-#skullSVG{
-	position:absolute;
-  width: 80%;
-  height: 80%;
-  top: 10%;
-  left: 10%;
-}
-#skullSVG{
-	position: absolute;
-    left: 10%;
-
-}
-
-// monkey
-
-#monkeySVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 4.5%;
-}
-.monkey{
-	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
-}
-
-
-// monkey
-
-#monkeySVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 4.5%;
-}
-.monkey{
-	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
-}
-
-// alien
-
-#alienSVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 15%;
-}
-.alien{
-	background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
-}
-
-// shyguy
-
-#shyguySVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 15%;
-}
-.shyguy{
-	background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
-}
-
-// block
-
-#blockSVG{
-	width: 90%;
-	position: absolute;
-	top: 10%;
-	left: 5%;
-}
-.block{
-	background-image: linear-gradient(to top, lightgrey 0%, lightgrey 1%, #e0e0e0 26%, #efefef 48%, #d9d9d9 75%, #bcbcbc 100%);
-}
-
-
-// pipe
-
-#pipeSVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 9%;
-}
-.pipe{
-	background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
-}
-
-// goomba
-
-#goombaSVG{
-	height: 90%;
-	position: absolute;
-	top: 5%;
-	left: 18%;
-}
-.goomba{
-	background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
-}
-
-// toad
-
-#toadSVG{
+#gailSVG {
 	height: 90%;
 	position: absolute;
 	top: 5%;
 	left: 23%;
 }
-.toad{
-	background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+.gail {
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
+//trex
+#trex {
+	width: 90%;
+	position: absolute;
+	top: 25%;
+}
+.trex {
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+.trexSVG {
+	width: 10%;
+}
+.trexSky {
+	position: absolute;
+	width: 100%;
+	height: 75%;
+	background-image: linear-gradient(
+		to top,
+		#432c39 0%,
+		#fda34b 1%,
+		#ff7882 25%,
+		#c8699e 52%,
+		#7046aa 71%,
+		#0c1db8 87%,
+		#020f75 100%
+	);
+}
+.trexGround {
+	position: absolute;
+	width: 100%;
+	height: 25%;
+	top: 75%;
+	background-image: linear-gradient(
+		to top,
+		#4fb576 0%,
+		#44c489 30%,
+		#28a9ae 46%,
+		#28a2b7 59%,
+		#4c7788 71%,
+		#6c4f63 86%,
+		#432c39 100%
+	);
+}
 
+//batman
+#batman {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 20%;
+}
+.batman {
+	background: rgb(117, 12, 12);
+}
+.batmanSVG {
+	width: 10%;
+}
+
+//twister emoji
+
+#twister {
+	position: absolute;
+	height: 71%;
+	top: 5%;
+	left: -9%;
+}
+.twisterSky {
+	width: 100%;
+	height: 75%;
+	background-image: linear-gradient(to bottom, #a8caba 0%, #5d4157 100%);
+}
+.twisterGround {
+	position: absolute;
+	width: 100%;
+	height: 25%;
+	top: 75%;
+	background-image: linear-gradient(
+		to top,
+		#4fb576 0%,
+		#44c489 30%,
+		#4c7788 71%,
+		#6c4f63 86%,
+		#432c39 100%
+	);
+}
+.twisterSVG {
+	width: 10%;
+}
+
+//metal chick
+
+.chick {
+	background: #050505;
+}
+.h1Chick {
+	position: absolute;
+	left: 12%;
+	font-family: 'Metal Mania', cursive;
+	font-size: 2em;
+	letter-spacing: 0.4em;
+	text-shadow: 2px 2px 2px rgb(117, 12, 12), -2px -2px 2px rgb(117, 12, 12);
+}
+#chickSVG {
+	position: absolute;
+	width: 100%;
+	top: 32%;
+}
+
+//skull
+
+.skull {
+	background: rgb(117, 12, 12);
+}
+
+#skullSVG {
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	top: 10%;
+	left: 10%;
+}
+#skullSVG {
+	position: absolute;
+	left: 10%;
+}
+
+// monkey
+
+#monkeySVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 4.5%;
+}
+.monkey {
+	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+// monkey
+
+#monkeySVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 4.5%;
+}
+.monkey {
+	background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+// alien
+
+#alienSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+}
+.alien {
+	background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+}
+
+// shyguy
+
+#shyguySVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 15%;
+}
+.shyguy {
+	background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+// block
+
+#blockSVG {
+	width: 90%;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+}
+.block {
+	background-image: linear-gradient(
+		to top,
+		lightgrey 0%,
+		lightgrey 1%,
+		#e0e0e0 26%,
+		#efefef 48%,
+		#d9d9d9 75%,
+		#bcbcbc 100%
+	);
+}
+
+// pipe
+
+#pipeSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 9%;
+}
+.pipe {
+	background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+}
+
+// goomba
+
+#goombaSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 18%;
+}
+.goomba {
+	background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+}
+
+// toad
+
+#toadSVG {
+	height: 90%;
+	position: absolute;
+	top: 5%;
+	left: 23%;
+}
+.toad {
+	background-image: linear-gradient(
+		to top,
+		#1e3c72 0%,
+		#1e3c72 1%,
+		#2a5298 100%
+	);
+}

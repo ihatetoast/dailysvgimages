@@ -91,13 +91,21 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#sushiSVG {
+  position: absolute;
+  width: 100%;
+  left: 0%; }
+
+.sushi {
+  background: #5a86e8; }
+
 #coffeecakeSVG {
   position: absolute;
   width: 110%;
   left: -5%; }
 
 .coffeecake {
-  background: #FCD4D4; }
+  background: #fcd4d4; }
 
 #sprinklesSVG {
   position: absolute;
