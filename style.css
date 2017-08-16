@@ -91,6 +91,11 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#pineappleSVG {
+  position: absolute;
+  width: 100%;
+  top: 15%; }
+
 #sushiSVG {
   position: absolute;
   width: 100%;
