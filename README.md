@@ -38,10 +38,10 @@
 
 ### Week 6:
 * Day 1: Sprinkle doughnut
-* Day 2: 
-* Day 3: 
-* Day 4: 
-* Day 5: 
+* Day 2: Cake
+* Day 3: Sushi platter
+* Day 4: Pineapple house
+* Day 5: Food of choice
 
 ### Week 7:
 * Day 1: 
