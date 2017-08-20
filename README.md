@@ -36,16 +36,16 @@
 * Day 4: dunno, don't care
 * Day 5: dunno, don't care ... of choice
 
-### Week 6:
+### Week 6: Food
 * Day 1: Sprinkle doughnut
 * Day 2: Cake
 * Day 3: Sushi platter
 * Day 4: Pineapple house
 * Day 5: Food of choice
 
-### Week 7:
-* Day 1: 
-* Day 2: 
+### Week 7: Space (skipping for later)
+* Day 1: Astronaut
+* Day 2: planet
 * Day 3: 
 * Day 4: 
 * Day 5: 

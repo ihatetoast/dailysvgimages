@@ -91,6 +91,14 @@ h2 {
   width: 70%;
   margin: 0.5em auto; }
 
+#basstronautSVG {
+  position: absolute;
+  width: 100%;
+  top: 10%; }
+
+.basstronaut {
+  background: #04043b; }
+
 #burgerSVG {
   position: absolute;
   width: 115%;
