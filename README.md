@@ -45,8 +45,9 @@
 
 ### Week 7: Space (skipping for later)
 * Day 1: Astronaut
-* Day 2: planet
-* Day 3: 
+* Day 2: Planet
+* Day 3: Rocketship (also, today Coding Artist announced that he's stopping.
+        I'll find my own themes to finish when I return to this. Boo. Sad. s)
 * Day 4: 
 * Day 5: 
 
